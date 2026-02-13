@@ -1,0 +1,15 @@
+A collection of four small C++ projects demonstrating basic programming concepts like arrays, loops, functions, and object-oriented programming.
+
+## Projects
+
+1. **Salary Update**  
+   A simple program to calculate and update employee salaries using functions and loops.
+
+2. **Calculator**  
+   A basic calculator that performs addition, subtraction, multiplication, and division.
+
+3. **Lottery Tickets**  
+   A program that simulates lottery ticket management using arrays, dynamic arrays, and 2D arrays.
+
+4. **School Management Tool**  
+   A tool to manage student data, including names, ages, grades, and classes.
